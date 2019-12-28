@@ -1,6 +1,6 @@
 # Classificacao
 
-##Modelos
+## Modelos
 
 - Naive Bayes
 - Árvore de decisão
